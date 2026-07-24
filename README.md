@@ -90,11 +90,7 @@ anime-links-extractor/
 ├── README.md              # 本文档
 ├── scripts/
 │   └── extract.js          # 核心提取脚本
-├── output/
-│   ├── 四月新番.txt        # 41 条目
-│   ├── 往期资源.txt        # 192 条目
-│   ├── 一月新番.txt        # 30 条目
-│   └── 七月新番.txt        # 32 条目
+├── output/                 # 提取结果输出目录（已 gitignore）
 └── browser-operation/
     └── SKILL.md            # Playwright 浏览器操作 Skill 配置
 ```
